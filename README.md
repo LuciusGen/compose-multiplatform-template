@@ -1,5 +1,7 @@
-![](https://github.com/LuciusGen/compose-multiplatform-template/actions/workflows/build-gradle-project.yml/badge.svg
-)
+![badge-android](http://img.shields.io/badge/platform-android-6EDB8D.svg?style=flat)
+![badge-jvm](http://img.shields.io/badge/platform-jvm-DB413D.svg?style=flat)
+![badge-js](http://img.shields.io/badge/platform-js-F8DB5D.svg?style=flat)
+
 # Template for compose-multiplatform support
 This template contains 3 variants for multiplatform support: 
 * Web (with bugs)
